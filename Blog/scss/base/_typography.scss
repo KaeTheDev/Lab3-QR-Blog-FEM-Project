@@ -1,0 +1,17 @@
+.text-sm {
+    @include typography($font-family-primary, 0.875rem, 500, 150%, 0px);
+    color: $gray;
+}
+
+.text-sm-bold {
+    @include typography($font-family-primary, 0.875rem, 800, 150%, 0px);
+}
+
+.text-xs {
+    @include typography($font-family-primary, 0.75rem, 400, 150%, 0px);
+    color: $dark-gray-hsl;
+}
+
+.heading-sm {
+    @include typography($font-family-primary, 1.25rem, 800, 150%, 0px);
+}

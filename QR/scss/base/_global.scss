@@ -1,0 +1,8 @@
+body {
+    font-size: $font-size-body;
+    background-color: $slate-300-hsl;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}

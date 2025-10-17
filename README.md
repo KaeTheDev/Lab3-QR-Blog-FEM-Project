@@ -1,4 +1,4 @@
-# Frontend Mentor Projects
+# LAB 3 - Frontend Mentor Projects
 
 This repository contains two simple frontend projects rebuilt from Frontend Mentor challenges: the QR code component and a blog landing page. Both projects demonstrate semantic HTML, SCSS styling, and responsive, mobile-first design using CSS Flexbox.
 
@@ -53,3 +53,17 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 * Flexbox Froggy & [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 * [MDN Docs - Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+
+
+# REFLECTION QUESTIONS
+
+1. How did using Figma designs as references affect your coding process?
+Having a Figma design file makes the development process much smoother. I prefer using them when building projects because they eliminate guesswork around sizing, padding, colors, and element positioning. It allows me to focus on coding rather than trying to approximate the design.
+
+2. What challenges did you encounter when aligning your code with the design specifications?
+
+These projects were relatively simple, so I didn’t face many challenges. One thing I noticed was that not all the styles specified in the style guide were necessary, which made it easier to simplify some of the CSS.
+
+3. How can the feedback and community resources on Frontend Mentor help you improve as a developer?
+
+Reviewing my code alongside community feedback helps me ensure I’m following best practices. It also provides opportunities to learn more efficient ways to structure HTML, CSS, or SCSS and refine my coding techniques.

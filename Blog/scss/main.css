@@ -102,7 +102,51 @@ body {
   box-shadow: 20px 20px 19px 0px rgba(0, 0, 0, 0.2);
   width: 275px;
   height: 400px;
-  padding: 1.5rem;
+  padding: 1.8rem;
+  padding-bottom: 2.5rem;
+}
+
+.card-thumbnail {
+  border-radius: 0.625rem;
+  margin-bottom: 1.5rem;
+  width: 17.813rem;
+}
+
+.card-badge {
+  background-color: #f4d04e;
+  width: 73px;
+  height: 12px;
+  padding: 4px 4px 12px 4px;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.card-title {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.card-title:hover {
+  color: #f4d04e;
+  transform: scale(1.05);
+}
+
+.card-author {
+  display: flex;
+  align-items: center;
+  margin-top: 0.75rem;
+}
+
+.card-author__avatar {
+  width: 25px;
+  height: 25px;
+}
+
+.card-author__name {
+  margin-left: 0.5rem;
+  color: hsl(0, 0%, 7%);
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,3 @@
-@use '../abstracts/mixins';
-
 .regular-text {
     @include typography($font-family-primary, 0.938rem, 400, 140%, 0.2px);
     color: $slate-500-hsl;

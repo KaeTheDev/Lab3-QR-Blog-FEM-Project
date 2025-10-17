@@ -1,5 +1,3 @@
-@use '../abstracts/variables';
-
 // Typography Mixin
 @mixin typography($font-family-primary, $size, $weight, $line-height, $letter-spacing) {
     font-family: $font-family-primary;

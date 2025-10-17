@@ -54,7 +54,7 @@ table {
 
 .text-sm {
   font-family: "Figtree", sans-serif;
-  font-family: 0.875rem;
+  font-size: 0.875rem;
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0px;
@@ -63,7 +63,7 @@ table {
 
 .text-sm-bold {
   font-family: "Figtree", sans-serif;
-  font-family: 0.875rem;
+  font-size: 0.875rem;
   font-weight: 800;
   line-height: 150%;
   letter-spacing: 0px;
@@ -71,7 +71,7 @@ table {
 
 .text-xs {
   font-family: "Figtree", sans-serif;
-  font-family: 0.75rem;
+  font-size: 0.75rem;
   font-weight: 400;
   line-height: 150%;
   letter-spacing: 0px;
@@ -80,7 +80,7 @@ table {
 
 .heading-sm {
   font-family: "Figtree", sans-serif;
-  font-family: 1.25rem;
+  font-size: 1.25rem;
   font-weight: 800;
   line-height: 150%;
   letter-spacing: 0px;

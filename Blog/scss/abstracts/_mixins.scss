@@ -1,0 +1,8 @@
+// TYPOGRAPHY MIXIN
+@mixin typography($font-family-primary, $size, $weight, $line-height, $letter-spacing){
+    font-family: $font-family-primary;
+    font-family: $size;
+    font-weight: $weight;
+    line-height: $line-height;
+    letter-spacing: $letter-spacing;
+}

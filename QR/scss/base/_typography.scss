@@ -1,0 +1,11 @@
+.regular-text {
+    @include typography($font-family-primary, 0.938rem, 400, 140%, 0.2px);
+    color: $slate-500-hsl;
+    opacity: 0.8;
+}
+
+.bold-text {
+    @include typography($font-family-primary, 1.375rem, 600, 120%, 0px);
+    color: $slate-900-hsl;
+    margin-bottom: 0.5rem;
+}
